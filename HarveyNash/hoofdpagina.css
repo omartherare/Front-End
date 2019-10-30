@@ -1,0 +1,59 @@
+html{
+    background-color:darkgray;
+}
+
+#intro{
+    color: white;
+    font-family:monospace, sans-serif;
+    font-feature-settings: normal;
+    font-size: 28px;
+    position: relative;
+    text-align: center;
+}
+
+#menu:hover{
+    color:black;
+    font-family:monospace, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    background-color:white;
+}
+
+#menu{
+    color:black;
+    font-family:monospace, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    background-color:white;
+}
+
+.border:hover{
+    border-style:dashed;
+    border-color:black;
+    border-width: auto;
+    border-radius: 20px;
+    padding:7px;
+}
+
+.border{
+    border-style:dashed;
+    border-color:black;
+    border-width: auto;
+    border-radius: 18px;
+    padding:2px;
+}
+
+#tabel{
+    border-style:groove;
+}
+
+.foto{
+    width: 30px;
+    margin-left:30px;
+}
+
+div{
+    border-radius: 20px;
+    border-style:double;
+    font-family:sans-serif;
+}
